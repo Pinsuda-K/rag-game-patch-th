@@ -180,3 +180,4 @@ st/
 ms-playwright*/
 node_modules/
 docs/images/*.png
+env.sh
