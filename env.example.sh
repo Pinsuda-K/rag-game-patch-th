@@ -1,4 +1,4 @@
-# Retrieval defaults (reviewer-friendly)
+# Retrieval defaults
 export EMBEDDER_MODEL="intfloat/multilingual-e5-small"
 export CHROMA_DIR="$HOME/persist/chroma_db"
 export CHROMA_COLLECTION="docs-e5"
